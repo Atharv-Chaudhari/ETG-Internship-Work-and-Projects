@@ -1,6 +1,6 @@
 # Welcome to The Inventory Management System 
 
-![](https://www.kindpng.com/picc/m/264-2640361_inventory-management-system-png-transparent-png.png)
+![](https://www.kindpng.com/picc/m/264-2640361_inventory-management-system-png-transparent-png.png-=250x250)
 
 note :- 
 
