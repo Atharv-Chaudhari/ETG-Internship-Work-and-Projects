@@ -1,5 +1,7 @@
 # Welcome to The Inventory Management System
-note :- 1) all functions throw all required errors on invalid inputs or illegal operations...!!!
+note :- 
+
+        1) all functions throw all required errors on invalid inputs or illegal operations...!!!
 
         2) If you wish to run then product data file will be generated automatically without any need of upload or you can comment down that product code to insert your product data file and run purchase reports json file will be generated automatically when first user will buy something...!!!
         
