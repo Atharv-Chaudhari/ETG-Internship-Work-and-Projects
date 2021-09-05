@@ -1,6 +1,6 @@
 # Welcome to The Inventory Management System 
 
-![](https://www.pinclipart.com/picdir/big/210-2108880_management-clip-art.png)
+![](https://www.kindpng.com/picc/m/264-2640361_inventory-management-system-png-transparent-png.png)
 
 note :- 
 
