@@ -134,7 +134,7 @@ After User purchases products :-
 </p> 
 
 ## 5) Bill Generation ➡ (This is Supportive Function for buy product funtion) 
-#### User/Customer will get his bill regarding purchases done by him just after purchase. (if user buys multiple products in one go it will give aggraegate bill...!!!)
+#### User/Customer will get his bill regarding purchases done by him just after purchase with unique 10 digit Transaction ID. (if user buys multiple products in one go it will give aggraegate bill...!!!)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Atharv-Chaudhari/ETG-Internship-Work-and-Projects/main/Inventory%20Management%20Using%20JSON/Images%20for%20Readme/user_bill.jpg"/>
