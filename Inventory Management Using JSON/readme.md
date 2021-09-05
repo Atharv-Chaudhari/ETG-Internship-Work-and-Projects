@@ -4,7 +4,7 @@
 ### 1) Admin
 ### 2) User
 
-## 🌟 Admin Functionality :-
+## 🧿 Admin Functionality :-
 #### Basically This is just for managing the Inventory for person having extra permissions like inserting,updating and deleting product details which should be at owner or manager level only.
 
 #### Follwing Are The functions at Admin Level.
