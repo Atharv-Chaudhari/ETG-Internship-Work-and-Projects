@@ -1,6 +1,6 @@
 # Welcome to The Inventory Management System 
 <p align="center">
-<img src="https://www.kindpng.com/picc/m/264-2640361_inventory-management-system-png-transparent-png.png" width="600" height="400""/>
+<img src="https://www.kindpng.com/picc/m/264-2640361_inventory-management-system-png-transparent-png.png" width="600" height="400"/>
 </p>
                                                                                                                                    
         NOTE :- 
@@ -14,6 +14,10 @@
 ### 1) Admin
 ### 2) User
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Atharv-Chaudhari/ETG-Internship-Work-and-Projects/main/Inventory%20Management%20Using%20JSON/Images%20for%20Readme/1.jpg"/>
+</p>                                                                                                                          
+                                                                                                                                   
 ## 🧿 Admin Functionality :-
 #### Basically This is just for managing the Inventory for person having extra permissions like inserting,updating and deleting product details which should be at owner or manager level only.
 
