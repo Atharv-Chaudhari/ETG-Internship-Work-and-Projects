@@ -1,4 +1,7 @@
-# Welcome to The Inventory Management System
+# Welcome to The Inventory Management System 
+
+![](https://www.pinclipart.com/picdir/big/210-2108880_management-clip-art.png)
+
 note :- 
 
         1) all functions throw all required errors on invalid inputs or illegal operations...!!!
