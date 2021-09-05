@@ -2,7 +2,8 @@
 <p align="center">
 <img src="https://www.kindpng.com/picc/m/264-2640361_inventory-management-system-png-transparent-png.png" width="600" height="400""/>
 </p>
-note :- 
+                                                                                                                                   
+        NOTE :- 
 
         1) all functions throw all required errors on invalid inputs or illegal operations...!!!
 
