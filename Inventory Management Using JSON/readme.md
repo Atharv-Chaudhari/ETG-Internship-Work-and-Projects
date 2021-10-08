@@ -82,7 +82,7 @@ Purchase reports After User Purchase :-
 <img src="https://raw.githubusercontent.com/Atharv-Chaudhari/ETG-Internship-Work-and-Projects/main/Inventory%20Management%20Using%20JSON/Images%20for%20Readme/reports_admin_after.jpg"/>
 </p> 
 
-### 7) Admin Can Delete Whole Database alsoif he wants to clear all...!!! (As This Functionality is so sensitive it is not mentioned but Code is present in commented part)
+### 7) Admin Can Delete Whole Database also if he wants to clear all...!!! (As This Functionality is so sensitive it is not mentioned but Code is present in commented part)
 
 ## 🧿 User Functionality:-
 #### This is Basically something like customer can operate to buy products and get his bill and previous bills record too have no functionally or access to product to either insert or modify or delete it.
